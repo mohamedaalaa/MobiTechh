@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "472648258799",
+    "project_id": "mastering-e8f4b",
+    "storage_bucket": "mastering-e8f4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472648258799:android:28195edca7f1b30109771a",
+        "android_client_info": {
+          "package_name": "com.example.mastering1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472648258799-taokfec64e1dst45bh79oiccf9047hut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD55Gjx9OOR3A2Cm13yGmChZEXCNlub8gE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472648258799-taokfec64e1dst45bh79oiccf9047hut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
